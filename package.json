@@ -58,7 +58,7 @@
     "peerDependencies": {
         "react": ">=16.0.0-alpha.12",
         "react-native": ">=0.46.0",
-        "react-native-svg": "^13.6.0"
+        "react-native-svg": "^13.4.0"
     },
     "devDependencies": {
         "@react-native-community/bob": "^0.10.0",
@@ -86,7 +86,7 @@
         "react": "16.2.0",
         "react-dom": ">=16.0.0-alpha.12",
         "react-native": "0.52.2",
-        "react-native-svg": "^13.6.0",
+        "react-native-svg": "^13.4.0",
         "react-test-renderer": "16.0.0-alpha.6"
     },
     "jest": {
